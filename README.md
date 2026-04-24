@@ -104,17 +104,6 @@ I focus on designing and deploying **secure, scalable, and automated infrastruct
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimperi&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimperi&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect with Me
 

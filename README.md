@@ -1,26 +1,30 @@
-# Salut, je suis Badr El Jouhari ! 👋
+# Badr El Jouhari
 
-### 🛡️ Étudiant en Ingénierie Cybersécurité | Cloud & DevOps
-Passionné par l'automatisation de l'infrastructure et la sécurité des environnements Cloud. Actuellement en recherche d'opportunités en DevOps / Cloud Security.
+### Cybersecurity Engineering Student | AWS Certified Solutions Architect
 
----
-
-### 📜 Certifications & Diplômes
-- ☁️ **AWS Certified Solutions Architect – Associate** (Obtenue en Février 2026)
-- 🎓 **2ème année de cycle ingénieur** spécialité Cybersécurité
-
-### 🛠️ Stack Technique
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🚀 Mes Projets Phares
-- **[CI-CD Pipeline](https://github.com/Kimperi/CI-CD)** : Automatisation du déploiement avec les bonnes pratiques de sécurité.
-- **[Review Blog]** : Rédaction d'articles sur le hardware et les nouvelles technos gaming.
+[cite_start]I am a Cybersecurity Engineering Student at ENSA Fès, passionate about Cloud infrastructure, DevOps, and secure application development[cite: 3, 4, 37]. [cite_start]I focus on building resilient systems using AWS and automating workflows through CI/CD pipelines[cite: 4, 45].
 
 ---
 
-### 📫 Me contacter
-- 💼 [LinkedIn](TON_LIEN_LINKEDIN_ICI)
-- ✍️ [Mon Blog Tech](TON_LIEN_VERS_LE_BLOG_ICI)
+### Certifications
+* [cite_start]**AWS Certified Solutions Architect – Associate** (Amazon Web Services, Feb 2026) [cite: 50, 51, 52]
+
+### Technical Skills
+* [cite_start]**Cloud & DevOps:** AWS (IAM, Lambda, S3, VPC), Terraform, Docker, Jenkins, GitHub Actions [cite: 30, 32, 45]
+* [cite_start]**Cybersecurity:** Offensive/Defensive Security, ELK Stack, Kali Linux, Nmap, Splunk, Wazuh [cite: 25, 47]
+* [cite_start]**Programming:** Python, JavaScript, C/C++, SQL [cite: 44, 46]
+
+### Key Projects
+* [cite_start]**Infrastructure as Code & AWS Provisioning:** Automated a Three-Tier architecture using Terraform with a focus on IAM least privilege principles[cite: 31, 32, 33].
+* [cite_start]**Automation CI/CD & IaC:** Streamlined application lifecycles with secure HTTPS deployment and repeatable cloud provisioning[cite: 26, 28, 29].
+* [cite_start]**Honeypot & ELK Integration:** Developed a deception system to capture intrusions and visualized real-time logs via ELK dashboards[cite: 21, 23, 24].
+
+### Involvement
+* [cite_start]**SECOPS Club Member (ENSA Fès):** Active participant in offensive security workshops and CTF competitions[cite: 55, 57, 58].
+
+---
+
+### Contact & Socials
+* [cite_start]**LinkedIn:** [linkedin.com/in/badr-el-jouhari](https://www.linkedin.com/in/badr-el-jouhari) [cite: 7]
+* [cite_start]**Email:** [baeljouhari@gmail.com](mailto:baeljouhari@gmail.com) [cite: 5]
+* [cite_start]**Location:** Fès, Morocco [cite: 1]

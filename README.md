@@ -14,21 +14,21 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a **Cybersecurity Engineering Student** at **ENSA Fès**, currently specializing in **Cloud Security**, **DevSecOps**, and **secure cloud infrastructure automation**.
 
 I focus on designing and deploying **secure, scalable, and automated infrastructures** using modern cloud and DevOps technologies.
 
-- ☁️ Cloud Security & AWS Architecture  
-- 🔐 Offensive and Defensive Security  
-- ⚙️ DevOps and CI/CD Automation  
-- 🛡️ Infrastructure as Code and Security Monitoring  
-- 📊 SIEM, logging, and threat detection  
+- Cloud Security and AWS Architecture  
+- Offensive and Defensive Security  
+- DevOps and CI/CD Automation  
+- Infrastructure as Code and Security Monitoring  
+- SIEM, logging, and threat detection  
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,jenkins,githubactions,linux,python,cpp,js,react,tailwind,mysql" />
@@ -46,7 +46,7 @@ I focus on designing and deploying **secure, scalable, and automated infrastruct
 
 ---
 
-## 🎓 Professional Certifications
+## Professional Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -57,12 +57,12 @@ I focus on designing and deploying **secure, scalable, and automated infrastruct
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>☁️ Infrastructure as Code & AWS Provisioning</h3>
+      <h3>Infrastructure as Code & AWS Provisioning</h3>
       <p>
         Automated the deployment of a secure three-tier cloud architecture using Terraform, including VPC, EC2, S3, and IAM security principles.
       </p>
@@ -71,7 +71,7 @@ I focus on designing and deploying **secure, scalable, and automated infrastruct
       </p>
     </td>
     <td width="50%">
-      <h3>🛡️ Honeypot & ELK Integration</h3>
+      <h3>Honeypot & ELK Integration</h3>
       <p>
         Deployed a deception-based security system to capture intrusion attempts and visualize real-time attack logs using ELK dashboards.
       </p>
@@ -82,7 +82,7 @@ I focus on designing and deploying **secure, scalable, and automated infrastruct
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚙️ Secure CI/CD Automation</h3>
+      <h3>Secure CI/CD Automation</h3>
       <p>
         Built automated deployment pipelines for web applications with secure HTTPS exposure, repeatable provisioning, and streamlined delivery.
       </p>
@@ -91,7 +91,7 @@ I focus on designing and deploying **secure, scalable, and automated infrastruct
       </p>
     </td>
     <td width="50%">
-      <h3>📊 Security Monitoring Lab</h3>
+      <h3>Security Monitoring Lab</h3>
       <p>
         Implemented monitoring and visibility for infrastructure and applications using security-oriented dashboards and log analysis tools.
       </p>
@@ -104,8 +104,19 @@ I focus on designing and deploying **secure, scalable, and automated infrastruct
 
 ---
 
+## GitHub Activity
 
-## 📫 Connect with Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimperi&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimperi&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/badr-el-jouhari">

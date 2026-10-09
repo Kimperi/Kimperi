@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Badr El Jouhari — Cloud, DevOps and Security</title>
+  <desc id="desc">Engineering student and AWS Certified Solutions Architect – Associate. Navy banner with a connected infrastructure illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#142B45"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1216" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1280" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="64" y="53" width="32" height="3" rx="1.5" fill="#2DD4BF"/>
+  <text x="108" y="60" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#94A3B8">BUILD · SECURE · DELIVER</text>
+  <text x="60" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#F8FAFC">Badr El Jouhari</text>
+  <text x="64" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#7DD3FC">Cloud · DevOps · Security</text>
+  <text x="64" y="221" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#CBD5E1">Engineering student</text>
+  <circle cx="228" cy="216" r="2" fill="#64748B"/>
+  <text x="242" y="221" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#CBD5E1">AWS Certified Solutions Architect – Associate</text>
+  <g stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.5">
+    <path d="M968 148H1040V83H1100"/>
+    <path d="M968 148H1040V217H1100"/>
+    <path d="M968 148H1154"/>
+    <path d="M925 148H866V83H906"/>
+    <path d="M925 148H866V217H906"/>
+  </g>
+  <circle cx="947" cy="148" r="50" stroke="#2DD4BF" stroke-opacity="0.12"/>
+  <circle cx="947" cy="148" r="32" fill="#132F42" stroke="#2DD4BF" stroke-opacity="0.7"/>
+  <path d="M931 149L941 159L962 138" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#132339" stroke="#38BDF8" stroke-opacity="0.5">
+    <rect x="1100" y="62" width="66" height="42" rx="8"/>
+    <rect x="1100" y="196" width="66" height="42" rx="8"/>
+    <rect x="906" y="63" width="42" height="40" rx="8"/>
+    <rect x="906" y="197" width="42" height="40" rx="8"/>
+    <rect x="1154" y="128" width="42" height="40" rx="8"/>
+  </g>
+  <g stroke="#7DD3FC" stroke-width="2" stroke-linecap="round">
+    <path d="M1115 78H1150M1115 88H1138"/>
+    <path d="M1115 212H1150M1115 222H1138"/>
+    <path d="M919 77H935M919 88H930"/>
+    <path d="M919 211H935M919 222H930"/>
+    <path d="M1167 142H1183M1167 153H1178"/>
+  </g>
+  <circle cx="1040" cy="148" r="3" fill="#2DD4BF"/>
+  <rect x="64" y="270" width="1152" height="2" rx="1" fill="url(#accent)" opacity="0.65"/>
+</svg>
